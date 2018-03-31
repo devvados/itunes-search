@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAlbums", "SearchAlbums\SearchAlbums.csproj", "{37A7152B-F745-4382-9EBA-80CBA5F7EDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A7152B-F745-4382-9EBA-80CBA5F7EDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A7152B-F745-4382-9EBA-80CBA5F7EDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A7152B-F745-4382-9EBA-80CBA5F7EDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A7152B-F745-4382-9EBA-80CBA5F7EDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F8DB9F-79C3-49D8-9942-06B7747736B8}
+	EndGlobalSection
+EndGlobal
